@@ -4,8 +4,8 @@ banner:
   bg_image: https://i.postimg.cc/DZ16ZSr8/materpic.jpg
   bg_overlay: true
   title: Lion's Roar <br/> Newspaper
-  content: The official Mater Academy newspaper  <br/> Informing & inspiring Students
-    & Faculty for over a decade.
+  content: The official Mater Academy newspaper  <br/> Informing & inspiring students
+    and faculty for over a decade.
   button:
     enable: true
     label: Discover Our Project
