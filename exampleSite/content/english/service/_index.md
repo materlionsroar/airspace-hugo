@@ -1,6 +1,6 @@
 ---
-title: "Service"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: News & Updates
+description: Here you'll find school updates, announcements, and events
+bg_image: images/featue-bg.jpg
+
 ---
