@@ -56,9 +56,9 @@ funfacts:
   enable: true
   title: Fun Facts About Us
   description: 'Journalism can never be silent: that is its greatest virtue and its
-    greatest fault. It must speak, and speak <br/> immediately, while the echoes of
-    wonder, the claims of triumph and the signs of horror are still in the air. <br/>
-    <b> Henry Anatole Grunwald'
+    greatest fault. It must speak, and speak immediately, while <br/>  the echoes
+    of wonder, the claims of triumph and the signs of horror are still in the air.
+    <br/> <b> Henry Anatole Grunwald'
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
