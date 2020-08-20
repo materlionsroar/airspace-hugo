@@ -7,7 +7,7 @@ banner:
   content: The official Mater Academy newspaper  <br/> Informing & inspiring students
     and faculty for over a decade.
   button:
-    enable: true
+    enable: false
     label: Discover Our Project
     link: project
 about:
