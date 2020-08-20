@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: "[![materpic.jpg](https://i.postimg.cc/DZ16ZSr8/materpic.jpg)](https://postimg.cc/tZCWvCmj)"
+  bg_image: https://i.postimg.cc/DZ16ZSr8/materpic.jpg
   bg_overlay: true
   title: A Digital Marketing <br/> & Design Agency
   content: We love the Web and the work we do.We work closely with our clients to
