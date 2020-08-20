@@ -56,7 +56,7 @@ funfacts:
   enable: true
   title: Fun Facts About Us
   description: 'Journalism can never be silent: that is its greatest virtue and its
-    greatest fault. <br/> It must speak, and speak immediately, while the echoes of
+    greatest fault. It must speak, and speak <br/> immediately, while the echoes of
     wonder, the claims of triumph and the signs of horror are still in the air. <br/>
     <b> Henry Anatole Grunwald'
   funfact_item:
