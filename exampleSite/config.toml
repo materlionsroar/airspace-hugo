@@ -52,13 +52,9 @@ URL = "service"
 name = "Service"
 weight = 4
 [[Languages.en.menu.main]]
-URL = "blog"
-name = "Blog"
+URL = "articles"
+name = "Articles"
 weight = 5
-[[Languages.en.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 6
 [[Languages.en.menu.main]]
 URL = "faq"
 name = "FAQ"
@@ -67,6 +63,10 @@ parent = "Pages"
 URL = "pricing"
 name = "Pricing"
 parent = "Pages"
+[[Languages.en.menu.main]]
+hasChildren = true
+name = "Pages"
+weight = 6
 [[Languages.en.menu.main]]
 URL = "contact"
 name = "Contact"
