@@ -72,9 +72,9 @@ funfacts:
     name: Combined Projects
     count: "0"
   testimonial_slider:
-  - name: Raymond Roy
-    image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
+  - name: Camila Gallardo
+    image: https://i.postimg.cc/PrtkkzZ6/Screen-Shot-2020-08-18-at-6-37-33-PM.png
+    designation: Editor in Chief <br/> Lion's Roar Newspaper
     content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
