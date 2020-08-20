@@ -55,9 +55,10 @@ cta:
 funfacts:
   enable: true
   title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  description: 'Journalism can never be silent: that is its greatest virtue and its
+    greatest fault. It must speak, and speak immediately, while the echoes of wonder,
+    the claims of triumph and the signs of horror are still in the air. <br/> Henry
+    Anatole Grunwald'
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
