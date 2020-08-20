@@ -61,10 +61,10 @@ funfacts:
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
-    count: "99"
+    count: "0"
   - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: "45"
+    name: Articles Written
+    count: "0"
   - icon: ion-ios-compose-outline
     name: Projects Completed
     count: "125"
