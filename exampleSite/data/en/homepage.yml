@@ -3,9 +3,9 @@ banner:
   enable: true
   bg_image: https://i.postimg.cc/DZ16ZSr8/materpic.jpg
   bg_overlay: true
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  title: Lion's Roar <br/> Newspaper
+  content: The official Mater Academy newspaper  <br/> Informing & inspiring Students
+    & Faculty for over a decade.
   button:
     enable: true
     label: Discover Our Project
